@@ -3,8 +3,8 @@ import React from 'react'
 const Register = () => {
   return (
   <div className='bg-[#efefef] size-full flex justify-center items-center' >
-    <form action="" className='bg-white w-1/3 h-3/4 flex justify-center items-center flex-col' >
-      <div>
+    <form action="" className='bg-white w-1/2 flex justify-center items-center flex-col gap-4 px-[800px] py-40'>
+      <div className='bg-red-200 w-full  flex  justify-center items-center '>
         <h1>Registration Form</h1>
         </div>
       <div>
