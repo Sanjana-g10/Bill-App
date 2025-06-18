@@ -8,7 +8,7 @@ import { RiLockPasswordFill } from "react-icons/ri";
 const Register = () => {
   return (
   <div className='bg-[#efefef] size-full flex justify-center items-center' >
-    <form action="" className='bg-white w-1/2 h-2/3 flex justify-center items-center flex-col gap-4 px-[80px] py-40'>
+    <form action="" className='bg-white w-1/2 h-2/3 flex justify-center items-center flex-col gap-4 px-[80px] py-40 rounded-2xl'>
       <div className= 'w-full  flex  justify-center items-center text-3xl font-bold'>
         <h1>Registration Form</h1>
         </div>
