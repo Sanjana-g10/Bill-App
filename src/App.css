@@ -4,3 +4,6 @@
     width: 100wh;
     /* background-color: red; */
 }
+::-webkit-scrollbar{
+    display: none;
+}
